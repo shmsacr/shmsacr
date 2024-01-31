@@ -7,7 +7,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shmsacr/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shmsacr@gmail.com)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](mailto:(https://www.instagram.com/shmsacr/))
+)](https://www.instagram.com/shmsacr/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shmsacr&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
