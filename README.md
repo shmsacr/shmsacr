@@ -1,8 +1,6 @@
 ![giphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJiaDdwZW0wcGN0bDB3aXNuZWVkcnk4anVhdzAwNXAxYXkyMm93ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjvTq03yZMNleOm2Af/giphy.gif)
 
-```diff
-@@ "You dont learn o walk by fllowing rules.You learn by doing and by falling over."@@
-```
+## "You dont learn o walk by fllowing rules.You learn by doing and by falling over."
 <h3 align="center">Contact with me:</h3>
 <div align="center">
 
